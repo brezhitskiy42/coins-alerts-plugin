@@ -1,0 +1,7993 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Coins Alerts\n"
+"POT-Creation-Date: 2018-06-21 18:57+0300\n"
+"PO-Revision-Date: 2018-06-21 18:57+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: coins-alerts.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: config/coins.php:7
+msgid "Ultimate Secure Cash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DuxCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PoisonIvyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EquiTrader"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Insane Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Basic Attention Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "F16Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HamsterCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "QTUM"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NefariousCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZenCash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BOScoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Qwark"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Nxt"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Diggits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Expanse"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Global Currency Reserve"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MapCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "XiaoMiCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "IOTA"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Quantum Resistant Ledger"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Adelphoi"
+msgstr ""
+
+#: config/coins.php:7
+msgid "E-CurrencyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Patientory"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZrCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Paycon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NeuCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Transfer"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Groestlcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Siacoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CleverCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Lykke"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Espers"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SatoshiMadness"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dynamic"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sequence"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MCAP"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Factoids"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LyraBar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Mysterium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Skycoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cofound.it"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Status Network Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Civic"
+msgstr ""
+
+#: config/coins.php:7
+msgid "iXledger"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dent"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitquence"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Starta"
+msgstr ""
+
+#: config/coins.php:7
+msgid "True Flip Lottery"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitStone"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Prime-X1"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CapriCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Amsterdam Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Obits Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ClubCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Radium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Emercoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BlitzCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitHIRE"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EverGreenCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MindCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "I0coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bata"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Karmacoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ergo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tezos"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Monaco"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Numerai"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Decred"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Nas2Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pakcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AdEx"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Quantum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EcoBit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Polybius"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tether"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RaiBlocks"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Creditbit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DogeCoinDark"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ahoolee"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ATB coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Blocktix"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ChanCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Compcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Rivetz"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Harbour DAO"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Nimiq Exchange Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "8 Circuit Studios"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CoinDash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ACT"
+msgstr ""
+
+#: config/coins.php:7
+msgid "district0x"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Suretly"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoPing"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MakeItViral"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Augur"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DAO.casino"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Santiment"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Kin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Wagerr"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OKCash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Elastic"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NVO"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FunFair"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FunCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PAquarium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Giga Watt"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Metal"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hive"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MyBit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Populous"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SunContract"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Starbase"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Corion"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Rialto.AI"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Orocrypt"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OpenANX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Monster Byte Inc"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Digital Developers Fund"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DIMCOIN"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gilgam"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Encrypgen"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FundYourselfNow"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dinastycoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Voxels"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoForecast"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Denarius"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DigitalPrice"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Virta Unique Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcoin Planet"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Unify"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ImperialCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BritCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Synereo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ammo Rewards"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SocialCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Mass.Cloud"
+msgstr ""
+
+#: config/coins.php:7
+msgid "IMMLA"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Exchange Union"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pillar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GeoFunders"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Propy"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Indorse"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bowhead Health"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TribeToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "0x"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tierion"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Presearch"
+msgstr ""
+
+#: config/coins.php:7
+msgid "COSS"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HOdlcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Storm"
+msgstr ""
+
+#: config/coins.php:7
+msgid "UnikoinGold"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Storj"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Scorecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OmiseGo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Octanox"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Equibit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Crypviser"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DCORP"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ArcticCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BeachCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bogcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NeverDie"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Po.et"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AdToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Digix DAO"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EDRCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Aeternity"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Useless Ethereum Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Agoras Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AICoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DAS"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Adshares"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CoinJob"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RootProject"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Royal Kingdom Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NoLimitCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Linda"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Spoon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "King93"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Anacrypt"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Reality Clash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sosnovkino"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoABS"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Opus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Lisk"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bits Digit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LeviarCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Skincoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Mothership"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HireMatch"
+msgstr ""
+
+#: config/coins.php:7
+msgid "REAL"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DentalFix"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EQUI"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Viberate"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DeepOnion"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcore"
+msgstr ""
+
+#: config/coins.php:7
+msgid "iDice"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sphre AIR"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cosmos"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Decentraland"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ICO OpenLedger"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Timereum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SmartCash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Waves"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hitcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gamecredits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Onix"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CoEval"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dashcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Wink"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DubaiCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HiCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cream"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Spots"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BiosCrypto"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CabbageUnit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CarpeDiemCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GameBetCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SARCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RedCrowCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcoin Cash / BCC"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PowerCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DigiPulse"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TrumpCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Mobius"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitDice"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PrismChain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitCrystals"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Solar DAO"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Rubies"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Steem"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BillaryCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dotcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Scotcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Darknet"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitalphaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "International Diamond Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Grantcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Thecreed"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PostCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EthereumScrypt"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Stox"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Core Group Asset"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Phalanx"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NumbersCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SoulCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ionomy"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SafeExchangeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Kencoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GrownCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Autoria"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CodeTract"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SuperNET"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OldSafeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SunShotCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NetworkCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GPU Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Wavesnode.net"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Think And Get Rich Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HempCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Adzcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gapcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MayaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "InvisibleCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "VirtaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SaluS"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SoilCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DigiCube"
+msgstr ""
+
+#: config/coins.php:7
+msgid "YoCoin"
+msgstr ""
+
+#: config/coins.php:7 public/partials/admin/manage-alerts.php:17
+#: public/partials/my-alerts/my-alerts.php:17
+msgid "Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "VapersCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AlpaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Steps"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DebitCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Universal Currency"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MoinCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SibCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EuropeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ICOBox"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Growers International"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Monkey"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AdvancedInternetBlock"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PrimeChain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BERNcash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BigUp"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Krypton"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RevolverCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "1337"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pepe"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DragonSphere"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Anti Bitcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Monetha"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BreakoutCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Mineum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Asiadigicoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZeitCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SixEleven"
+msgstr ""
+
+#: config/coins.php:7
+msgid "2GiveCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cryptographic Anomaly"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SwingCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Nebuchadnezzar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AcesCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Francs"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Aiden"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pulse"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Number7"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CCCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cygnus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LGBTQoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Uther"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MediumProject"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KATZcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "404Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Supreme"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Mojocoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BelaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Flash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Umbrella Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitmxittz"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gas"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BolivarCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CludCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DimeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FileCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FlyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "High Voltage Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GIZMOcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GrexitCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Carboncoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DigiEuro"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Oceanlab"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Benjacoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tomahawkcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Turron"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LemonCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "STRESScoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dark Lisk"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NevaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cryptokenz"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Fuzzballs"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Nukecoinz"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SecretCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ratecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "XanaxCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "StarCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bytom"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Asch"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SMNX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Stakerush"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Digital Bullion Gold"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WMCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GothicCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FlavorCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dentacoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Stakers"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Rise"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Macroverse"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Embers"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Memessenger"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Revenu"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PabyosiCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Obscurebay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ExitCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EducoinV"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Clinton"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Clockcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Neblio"
+msgstr ""
+
+#: config/coins.php:7
+msgid "VIP Tokens"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Prospectors"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MonacoCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NXEcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cash Poker Pro"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZoomCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DT Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "YobitVirtualCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OrlyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KubosCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "InceptionCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SharkCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EvilCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OmegaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MonetaryUnit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CobraCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bancor Network Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EkoCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Lampix"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitSend"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Destiny"
+msgstr ""
+
+#: config/coins.php:7
+msgid "16BitCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Project Decorum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CometCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DetectorToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ChessCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SpaceCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ReeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Liquid"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Marvelous"
+msgstr ""
+
+#: config/coins.php:7
+msgid "XDE II"
+msgstr ""
+
+#: config/coins.php:7
+msgid "VectorCoin 2.0"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Omni"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GenesysCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TrollTokens"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CampusCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ThankYou"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HealthyWorm"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Fuck Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Veredictum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Smart Investment Fund Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "IwToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "JustDatingSite"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Intelligent Trading Technologies"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MediBond"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Let it Ride"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MMNXT"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ScryptCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LBRY Credits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Specie"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hello Gold"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Litra"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Nimfamoney"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Scorista"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CPROP"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PeerCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitradio"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Minex"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BeckSang"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Magos"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Draftcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Latium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Steem Backed Dollars"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoJacks"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PutinCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sojourn Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Kraken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Stakecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dlisk"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SqPay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "iBankCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Etheriya"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ethereum.Link"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Wanchain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Blockchain Index"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bankex"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Boulle"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Oxycoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Stratis"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tap Project"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Acumen"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Voyacoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EnterCoin (ENTER)"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gimli"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cloud"
+msgstr ""
+
+#: config/coins.php:7
+msgid "World Gold Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitMoon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NewYorkCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LiteBitcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EasyMine"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gx Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hubiit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Kronecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Avalon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZCash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Frankywillcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Psilocybin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ExtremeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RustCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NewZealandCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SingularDTV"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BuildTeam"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AdCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Xaurum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Z2 Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitFinex Tokens"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Linx"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CoinonatX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BlakeStar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GoodCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Travel Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Exscudo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Primas"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Uniqredit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ChronosCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Decent"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PokeChain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MudraCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WarpCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Coinomat"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PizzaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Lutetium Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Heat Ledger"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Iconomi"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ExaByte (EXB)"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Wings DAO"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cryptodex"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ReturnBit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "deCLOUDs"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Komodo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GoldBlocks"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NEO"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Anoncoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Syndicate"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Mass Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "E-Dinar Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Jewels"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WayCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MollyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Trigger"
+msgstr ""
+
+#: config/coins.php:7
+msgid "bitCNY"
+msgstr ""
+
+#: config/coins.php:7
+msgid "bitUSD"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Autumncoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Save The Ocean"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sense"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Fusion"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CarterCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TotCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcloud"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ArkDAO"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MedicCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FuturePoints"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Zeta2Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Karbowanec"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tellurion"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EneCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TDFB"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BlockPay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitTokens"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZayedCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MustangCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Goonies"
+msgstr ""
+
+#: config/coins.php:7
+msgid "808"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Veltor"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZoneCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DickCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Circuits of Value"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DarkGold"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TodayCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Verium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RootCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FirstBlood"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gold Pressed Latinum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DopeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pioneershares"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GayCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Samsara Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ubiqoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Armory Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RingCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ERBCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Lazarus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FonzieCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitCurrency"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FaucetCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Save and Gain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SteamPunk"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dark Moon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DollarCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sentaro"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Swiscoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Wexcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Lathaan"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitBronze"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Shilling"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BuzzCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cryptonex"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Mind Gene"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PSIcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Opair"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PesoBit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Beats"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Fitcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PantherCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FireCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Unfed Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SportsCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Peerplays"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NineElevenTruthCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EGOcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitluckCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "X2Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Mycelium Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tianhe"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GBR Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "UPcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Octocoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Halloween Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BaseballCardCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EmiratesGoldCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BighanCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Craftcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Invictus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OlympCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DelightPay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Atomic Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hacker Gold"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AntiLitecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "JobsCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DogeGoreCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "The Hempcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tetra"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Resumeo Shares"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FujiCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Waltonchain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Breakout Stake"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Vaporcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SydPakCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Recovery Right Tokens"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Premium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CaliphCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ormeus Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Deep Gold"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LeaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Californium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CrankCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CoffeeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Victoriouscoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Safecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ardor"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BlackShadowCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "JiffyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CrabCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "President Clinton"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ForexCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Moneta"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Eclipse"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Rublebit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HappyCreatorCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BrainCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Vertex"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KRCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RoyalCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BigLifeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Zurcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NubisCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AB-Chain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Blackmoon Crypto"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tennet"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PeaceCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Goldmaxcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "32Bitcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Paycentos"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GanjaCoin V2"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TeamUP"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ScryptToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LanaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Elementrem"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GuccioneCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AndromedaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Facecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Byteball"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EqualCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SweetStake"
+msgstr ""
+
+#: config/coins.php:7
+msgid "2BACCO Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DarkKnightCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Community Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ChainLink"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ChoofCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CashOut"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Rustbits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "REX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ethereum Dark"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sumokoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tronix"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZClassic"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RoyalCoin 2.0"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pabyosi Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NetBit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WineCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Darcrus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ARK"
+msgstr ""
+
+#: config/coins.php:7
+msgid "InflationCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZCashDarkCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Zcrypt"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WashingtonCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TeslaCoilCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LuckyBlocks (LUCKY)"
+msgstr ""
+
+#: config/coins.php:7
+msgid "vSlice"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Troll Payment"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LEOcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Midnight"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CBD Crystals"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PosEx"
+msgstr ""
+
+#: config/coins.php:7
+msgid "InsaneCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Golem Network Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PenCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LuckChain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FameCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LiviaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sex Pistols"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MegaFlash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Veros"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Arab League Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EtherDoge"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KiloCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitLuckCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dream8Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FistBump"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ebitz"
+msgstr ""
+
+#: config/coins.php:7
+msgid "365Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Digital Rupees"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Free Game Zone"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BosonCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ArtexCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PlatiniumCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BeardDollars"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Time"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BipCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EmberCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Coin to the Future"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DollarOnline"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cosmic"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FirstCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SpaceCash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "XenixCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "JIO Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "iWallet"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Janus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TrickyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DeltaCredits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FreeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NPCcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PLNCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Digigems"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Icobid"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AquariusCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Kurrent"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Creatio"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Eternity"
+msgstr ""
+
+#: config/coins.php:7
+msgid "UR"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Metal Music v3"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Old Dogs New Tricks"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Eurocoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CoolDarkCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitcoinFast"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SeedShares"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PoSWallet"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tokes"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitConnect Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ShortyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Procom"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Kernalcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CoralPay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BAM"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Nexium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MoneyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Blackstar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Horse Power"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HazMatCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoSpots"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PoolStamp"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoCarbon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BullshitCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Incent"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Iconic"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NewInvestCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AvonCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Enigma"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cannabis Industry Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ProsperCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "YbCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DarkKush"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GiveCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KoboCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DarkToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CETUS Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Supcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PetroDollar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GeoCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CleverHash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Spreadcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NXTI"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Insanity Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DogeParty"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LookCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Loco"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MMXVI"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TrustCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MIScoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WorldPay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ConquestCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Impulse Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "InCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TheChiefCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Goat"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AnalCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Russiacoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PXcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "2015 coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OptionCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Avatar Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Limited Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GameUnits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HeelCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DigitalCash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Litecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GAKHcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Shift"
+msgstr ""
+
+#: config/coins.php:7
+msgid "S88 Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Leverage Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DraculaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Allsafe"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LiteCreed"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Quebecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ProCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GiftNet"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PureVidz"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Incrementum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PentaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AcidCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZLiteQubit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RadicalCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ReturnCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Golos"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pascal Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TwisterCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PayPeer"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DarkEther"
+msgstr ""
+
+#: config/coins.php:7
+msgid "YAYcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "YesCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LeninCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MrsaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OsmiumCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitBoss"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Maker"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bikercoins"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoPennies"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Motocoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NeptuneClassic"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Numismatic Collections"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HexxCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ghost Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MachineCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SelenCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Noocoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "23 Skidoo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GoldenBird"
+msgstr ""
+
+#: config/coins.php:7
+msgid "YamahaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "JokerCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GravityBit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BombCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ride My Car"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Private Instant Verified Transaction"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Klingon Empire Darsek"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Coino"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WealthCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Spectre"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pepe Cash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Clickcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Elysium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KushCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Eryllium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pluton"
+msgstr ""
+
+#: config/coins.php:7
+msgid "President Trump"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitzCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Opes"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Waves Community Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ubiq"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ratio"
+msgstr ""
+
+#: config/coins.php:7
+msgid "42 Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Asia Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ACoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Aero Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Babes and Nerds"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AlphaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NiceCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SmurfCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Aegis"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoWorldXToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AmericanCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AlienCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AnonCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ApexCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ArchCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AriCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Aurora Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AXRON"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BattleCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Benjamins"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BetaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitBean"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BlackCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BoostCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BQCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MyriadCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MoonCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZetaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SexCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Quatloo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EnergyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "QuarkCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Riecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DigiCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LimeCoinX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TechCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CircuitCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LePenCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RoundCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Argentum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MarijuanaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MarxCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tatiana Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HazeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitBar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Printerium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitcoinDark"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Neurocoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PacCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Impeach"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitGem"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitMark"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoBuk"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cachecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CAIx"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CannabisCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BottleCaps"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CashCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoBullion"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CannaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CinderCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CINNICOIN"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CheckCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CLAMS"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CloakCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CopperLark"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CosmosCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ChinaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ConcealCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CoolCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CrackCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CraigsCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CraftCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CasinoCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "eMark"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Diamond"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dogecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Verge"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DarkCash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DarkShibe"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DevCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EarthCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "E-Gulden"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Elacoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Einsteinium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Emerald"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Exclusive Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ExeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EZCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Flappy Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Fuel2Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FireflyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FIBRE"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FlutterCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FractalCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ErrorCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TrueInvestmentCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NukeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EveryonesCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Solarflarecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "JaneCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ParanoiaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MasterMint"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcedi"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NinjaDoge"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FireRoosterCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Franko"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FastCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FeatherCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Zilbercoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Melon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GrandCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TenX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OroCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GlobalCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GoldCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GalaxyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GlyphCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GameLeagueCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GuerillaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Halcyon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HoboNickels"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HunterCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HeavyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hyperstake"
+msgstr ""
+
+#: config/coins.php:7
+msgid "IceBergCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Infinite Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "IOCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "IXcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "JumBucks Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "JunkCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "JudgeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Klondike Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KeyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KrugerCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CoinWorksCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Legendary Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Lucky7Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LuckyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LightSpeedCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Litebar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LitecoinDark"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LitecoinX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LibrexCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LycanCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MaxCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MegaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MediterraneanCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Alexandrite"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TrashBurn"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Minerals Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MasterCar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TechShares"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MintCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cryptsy Mining Contract"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MinCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MurrayCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MysteryCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MazaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NanoToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Nautilus Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Nybble"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NeoCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NetCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Nimbus Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NoirBits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NobleCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NoirShares"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NovaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NameCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NyanCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "United Arab Emirates Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OpalCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EagleCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Orbitcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Persistent Information Exchange"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OpenSourceCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PhilosophersStone"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cryptsy Points"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PotCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PseudoCash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PhoenixCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PayCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ReddCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RipOffCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RonPaulCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RotoCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RazorCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Saturn2Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "StableCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ShadowCash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SaffronCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ShadeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ShieldCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SilkCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SterlingCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SmartCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SoleCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SpainCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SecureCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SSVCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Stellar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SuperCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitSwift"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SyncCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SysCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TagCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TakCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TeslaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TigerCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TitCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TorCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TerraCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TittieCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Umbrella"
+msgstr ""
+
+#: config/coins.php:7
+msgid "UnbreakableCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Unobtanium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "UroCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CreativeChain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WisdomCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BeaverCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FindCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MeLite"
+msgstr ""
+
+#: config/coins.php:7
+msgid "StalinCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TattooCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "UnitaryStatus Dollar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "UltraCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Utility Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "VidioCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ViaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "VootCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "VeriCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "VertCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WhiteCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WorldCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SapienceCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SocialXbotCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitstake"
+msgstr ""
+
+#: config/coins.php:7
+msgid "X11 Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Xcash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Crypti"
+msgstr ""
+
+#: config/coins.php:7
+msgid "JouleCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LibertyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PrimeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ripple"
+msgstr ""
+
+#: config/coins.php:7
+msgid "StealthCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "XXXCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "YAcCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZCC Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZedCoins"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZiftrCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Monero"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitshares"
+msgstr ""
+
+#: config/coins.php:7
+msgid "VaultCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BioBar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Swarm City Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pascal Lite"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Zero"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ChatCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Canada eCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Elektron"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DigitalNote"
+msgstr ""
+
+#: config/coins.php:7
+msgid "XauCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TimesCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NEM"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BurstCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NuBits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "StorjCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "StartCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BigCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CounterParty"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MaidSafe Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "007 coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NuShares"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MonaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SolarFarm"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TekCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Positron"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitBay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sling Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Vcash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CraveCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BlockNet"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Stability Shares"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Giga Hash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ByteCent"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GridCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gemz Social"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KryptCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Horizon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FairCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "QoraCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gulden"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RubyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TrollPlay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PesetaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Netko"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Zoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KoreCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Wild Beast Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sonic Screw Driver Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TileCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dnotes"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GridPay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ethereum Classic"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FlorinCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MaieutiCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "8BIT Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sativa Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EbolaShare"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AeroMe"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Coin Magi"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AmberCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "JackPotCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NakomotoDark"
+msgstr ""
+
+#: config/coins.php:7
+msgid "JoinCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GhostCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DayTrader Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ArtByte"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LiteDoge"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MasterTraderCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Triangles Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SwarmCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Boolberry"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitCrystal"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitCredit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pebble Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dirac Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Folding Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SolarCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Social Media Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TruckCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ucoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Unitus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CypherPunkCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ascension Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OrangeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GSM Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FriendshipCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NXTTY"
+msgstr ""
+
+#: config/coins.php:7
+msgid "QuBuck Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BlakeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MaryJane Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OmniCron"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GigCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CyberCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitstarCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LTBCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NeosCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HyperCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Vtorrent"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MetalCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PinkCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GreenCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "XG Sports"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ChildCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BOOM Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Instamine Nuggets"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ROS Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Unattanium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SlimCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GAIA Platform"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TrustPlus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FantomCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cryptonite"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Curecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gridmaster"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MemoryCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitcoinPlus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Honey"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ConSpiracy Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OctoCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MasterCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MartexCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EggCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Musiccoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Coin.2"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GlowShares"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Camcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ribbit Rewards"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Quotient"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ICASH"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Node"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SoonCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitMiles"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Event Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "1Credit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ViorCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "XCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "VirtualMining Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MarsCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Databits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitVegan"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Mbitbooks"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitVolt"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MobileGo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Edgeless"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BankCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BestChain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ChainCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Zennies"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PlanetCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DuckDuckCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BnrtxCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BattleStake"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RenosCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AMIS"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Kayı"
+msgstr ""
+
+#: config/coins.php:7
+msgid "VirtacoinPlus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Doubloon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TajCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Impact"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoJournal"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Amygws"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cubits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "StarCredits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EB3coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "The Vegan Initiative"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FazzCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Aptcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BlazerCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ArpaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Boats and Bitches"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Universe"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Viral Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Equilibrium Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "IslaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Quicksilver coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "World Trade Funds"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DeOxyRibose"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RadonPay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SkullBuzz"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GlobalBoost"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoFocus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gambit coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Nexus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Crypto Escudo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ECOcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Twelve Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EagsCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Solaris"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dark"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MultiWallet Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DonationCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AudioCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Megastake"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sphere Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Singular"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitcoinTX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Mercury"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DarkCrave"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SupplyShock"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DarkBit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Crypto"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WavesGO"
+msgstr ""
+
+#: config/coins.php:7
+msgid "iEx.ec"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Atmos"
+msgstr ""
+
+#: config/coins.php:7
+msgid "InPay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EncryptoTel"
+msgstr ""
+
+#: config/coins.php:7
+msgid "wBTC"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Visio"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HappyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Giotto Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Coinonat"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EmporiumCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EdgeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitLux"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FutCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Global"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TamaGucci"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MorpheusCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Creva Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Forever Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BananaBits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Wood Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cerium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Anarchists Prime"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gnosis"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Legends Cryptocurrency"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Token as a Service"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SwagBucks"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Guppy"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MacronCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Lunyr"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Condensate"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WeAreSatoshi"
+msgstr ""
+
+#: config/coins.php:7
+msgid "IvugeoEvolutionCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Independent Money System"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ArgusCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Centurion"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LomoCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TokenCard"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcoin Scrypt"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ProCurrency"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GoldReserve"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WarCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BenjiRolls"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Humaniq"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Blockchain Capital"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ParallelCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RiptoBuX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Droidz"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GorillaBucks"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BowsCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DarkTron"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoCircuits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GrowthCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Apx"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MiloCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ILCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MinersReward"
+msgstr ""
+
+#: config/coins.php:7
+msgid "IncaKoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Versa Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Empyrean"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Squall Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PolyBit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Piggy Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Charity Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Milllionaire Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Crown Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Genstake"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PharmaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GridMaster"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Quartz"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Arbit Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Litestar Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SpinCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GoldPieces"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitz Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DubCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Graviton"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bob Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MonetaVerde"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Quazar Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hedgecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "IOU1"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Prizm"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Phreak"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Aragon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PupaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RiceCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "C-Bits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Degas Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Redcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZSEcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Coinmatic"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TappingCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitOKX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Primalbase"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MilkCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Infinium-8"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HTML Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Minereum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Song Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitSeeds"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Credits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Axiom Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SmileyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Rimbit"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Chip"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SpecCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gram Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "UnCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sprouts"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitZeny"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitQuark"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ParkByte"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Synergy"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ghoul Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hellenic Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Etheroll"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Kyber Network"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DreamTeam Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Agrello Delta"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Binance Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ripio"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DMarket"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FoodCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Salt Lending"
+msgstr ""
+
+#: config/coins.php:7
+msgid "InvestFeed"
+msgstr ""
+
+#: config/coins.php:7
+msgid "StockBet"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Vechain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Snovio"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Centra"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ignis"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Credo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "XP"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AeonCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Maecenas"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ARNA Panacea"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Scrypto"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Crystal Clear Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dropcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "UFO Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Global Jobcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Social Nexus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gladius"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Algo.Land"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Obsidian"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hush"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NavCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cardano"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Yoyow"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Regalcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SynchroCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Wolk"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Wi Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Signatum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PandaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Manet Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Substratum Network"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Subscriptio"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bismuth"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KexCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Authoreon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FLASH coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Graft Network"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DomRaider"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Napoleon X"
+msgstr ""
+
+#: config/coins.php:7
+msgid "UCash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "A-Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cappasity"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitcoinZ"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LAToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Particl"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AventCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ByteCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Paragon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitClave"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Elite 888"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Rhea"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Crazy Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Metaverse"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitJob"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ties Network"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Doc.ai Neuron"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ambrosus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hedge Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Eidoo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BrickBlock"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EOS"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FLiK"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Eventchain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Leverj"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Vsync"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OldV"
+msgstr ""
+
+#: config/coins.php:7
+msgid "XenCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Kapu"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ALISmedia"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sense Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cryptonetix"
+msgstr ""
+
+#: config/coins.php:7
+msgid "OpenZen"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WRTcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cryptum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Webcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ethereum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Khancoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Influxcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Internet of People"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Voise"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DigiByte"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sandcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ToTheMoon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Archain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "X Real Estate Development"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Protoshares"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EZMarket"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cashaa"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Opporty"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Moya Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Neutron"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Arbi"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TrezarCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Astral"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AirSwap"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NetM"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FundRequest"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HextraCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CanYaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Datum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Request Network"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Wish Finance"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gameflip"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Arena"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Fujinto"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ATC Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Kolion"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Worldwide Asset eXchange"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Musiconomi"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cindicator"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Rockchain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "VIBEHub"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Javvy"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LakeBanker"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Esports.com"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PayPie"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ColossusCoinXT"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Wild Crypto"
+msgstr ""
+
+#: config/coins.php:7
+msgid "eLTC"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CovenCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Covesting"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Aircoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Utrust"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GenXCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Zenome"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Power Ledger"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hackspace Capital"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TerraNovaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CybCSec Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitqy"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Caviar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GoldMint"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Qvolta"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cobinhood"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TrackNetToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ClearPoll"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Clout"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Trippki"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WaBi"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KickCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ILCoin Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "VIVO Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Zeusshield"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Red Pulse"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Moeda"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Change"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EthBits"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Crowdwiz"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Playkey"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Monaize"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Social Media Market"
+msgstr ""
+
+#: config/coins.php:7
+msgid "XtraBYtes"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Peerguess"
+msgstr ""
+
+#: config/coins.php:7
+msgid "e-Chat"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Internxt"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AirToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Aureus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Authorship"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RG Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Elements"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Loopring"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hshare"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SONM"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Everex"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EthBet"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BlueCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Veritaseum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hydrominer"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Eloplay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Matryx"
+msgstr ""
+
+#: config/coins.php:7
+msgid "eBTC"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Privatix"
+msgstr ""
+
+#: config/coins.php:7
+msgid "B3 Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Earth Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Skrilla Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Prosense.tv"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WandX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Multibot"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MiniApps"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Crypto20"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BLOCKv"
+msgstr ""
+
+#: config/coins.php:7
+msgid "3DES"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Etherparty"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CarTaxi"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ATLANT"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Aeron"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TokenStars"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Enjin Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Papyrus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Crypto Tickets"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ice Rock Mining"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AltoCar"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Worldcore"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Revain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BonesCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bonpay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Rupee"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WhaleCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WomenCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Theresa May Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FrazCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Render Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Eddie coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NamoCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "UpToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ethereum Blue"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcomo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ethereum Gold"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoPay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LUXCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ethereum Cash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Brat"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EthereumLite"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WePower"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Xios"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dragonchain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Electroneum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcloud 2.0"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Data Trading"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ODMCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SelfKey"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Xenon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitfinex Bitcoin Future"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcoin SegWit2X"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Loan"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZABERcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TBIS token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KekCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BlackholeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Modulum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ATMChain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AltCommunity Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ugChain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Streamr DATAcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pure"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Everus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ExchangeN"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tracto"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcoin Red"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PoSToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Datacoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BlueDragon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dutch Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Rupaya"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sharpe Capital"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Trade.io"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Huncoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pura"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BlockMason Credit Protocol"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitdeal"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Billionaire Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Realisto"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AidCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Open Trading Network"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Nuls"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Phore"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Rebellious"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LitecoinCash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NEO Gold"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Confido"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ATFS Project"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AIX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Project Zephyr"
+msgstr ""
+
+#: config/coins.php:7
+msgid "COMSA"
+msgstr ""
+
+#: config/coins.php:7
+msgid "WiserCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Decent.bet"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Infinity Economics"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LIFE"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Newbium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Masari"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CyberTrust"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Decision Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ConnectJob Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Envion"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Jincor"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MadCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ellaism"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Pirl"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AppCoins"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BlockPool"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PlatinumBAR"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SirinLabs"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Coinvest"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Energi Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Raiden Network"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcoin Gold"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Astronaut"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Mercury Protocol"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ICON Project"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bankera"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Soarcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "INS Ecosystem"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SophiaTX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GAT Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Extreme Sportsbook"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ethersportcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "J Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Viuly"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DOVU"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Grid+"
+msgstr ""
+
+#: config/coins.php:7
+msgid "IndiCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Giftcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Innova"
+msgstr ""
+
+#: config/coins.php:7
+msgid "eBoost"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Scorum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Vezt"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Galaxy eSolutions"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Advanced Browsing Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Interstellar Holdings"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Droxne"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Go!"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Experty"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Genesis Vision"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HEROcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoInsight"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Wyrify"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Soma"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Chronologic"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Elixir"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Kucoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "eBitcoinCash"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Emphy"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Modum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "StarterCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Quantstamp"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Follow Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RocketCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SimpleToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Neumarks"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Dynamic Trading Rights"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Propthereum"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Avesta"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Düber"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GoByte"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitBoost"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Insta Cash Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Castle"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MinexCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sakuracoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Jibrel Network Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RiptideCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Alqo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "KingN Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Quoine Liquid"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Magnet"
+msgstr ""
+
+#: config/coins.php:7
+msgid "STEX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Upfiring"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LociCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Debitum Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Triaconta"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Flixxo"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Publica"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PayFair"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Electra"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Labrys"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Lamden Tau"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TOA Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ludum token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LiteCoin Gold"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcoin Diamond"
+msgstr ""
+
+#: config/coins.php:7
+msgid "StashPay"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SpankChain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MyWish"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Aerium"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PlexCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Autonio"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EtherBTC"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Commodity Ad Network"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Catcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ShrekCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Anryze"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Votecoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Uquid Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EthLend"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Tio Tour Guides"
+msgstr ""
+
+#: config/coins.php:7
+msgid "The Abyss"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SHIELD"
+msgstr ""
+
+#: config/coins.php:7
+msgid "onG.social"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Oyster Pearl"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BTCMoon"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Ethereum Black"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ZCashGOLD"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Mutual Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Kittehcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Divi"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Cash & Back Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "UltraNote"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RAFL"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Arcade City"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CoiniFi"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Gold Reward Token"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Eroscoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Neurotoken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitCAD"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CyberMiles"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Farad"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ELTCOIN"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BridgeCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Sether"
+msgstr ""
+
+#: config/coins.php:7
+msgid "RChain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "People"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CryptoWave"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitDegree"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Goldea"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Darico"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Social Send"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GlobalToken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitCoal"
+msgstr ""
+
+#: config/coins.php:7
+msgid "DaxxCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "X8Currency"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Neuro"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Relex"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Achain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Aion"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EthereumBitcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FlypMe"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bulwark"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BoxyCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "NagaCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ETHGAS"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Adbank"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Digital Assets Power Play"
+msgstr ""
+
+#: config/coins.php:7
+msgid "XinFin Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Biocoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Universa"
+msgstr ""
+
+#: config/coins.php:7
+msgid "FinTab"
+msgstr ""
+
+#: config/coins.php:7
+msgid "ModuleTrade"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BTC Lite"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PeepCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "TargetCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BMChain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SmartHoldem"
+msgstr ""
+
+#: config/coins.php:7
+msgid "PayPro"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Monero Gold"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitcoin Revolution"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Verify"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Super Bitcoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Kalkulus"
+msgstr ""
+
+#: config/coins.php:7
+msgid "AC3"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Time New Bank"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CHIPS"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Hacken"
+msgstr ""
+
+#: config/coins.php:7
+msgid "B2B"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LockChain"
+msgstr ""
+
+#: config/coins.php:7
+msgid "SmartMesh"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Media Network Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "EthereumFog"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BitcoinX"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Straks"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GermanCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "BannerCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "LiteCoin Ultra"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bitair"
+msgstr ""
+
+#: config/coins.php:7
+msgid "IntenseCoin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "GIFTO"
+msgstr ""
+
+#: config/coins.php:7
+msgid "HOQU"
+msgstr ""
+
+#: config/coins.php:7
+msgid "CrowdCoinage"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Luxmi Coin"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bounty0x"
+msgstr ""
+
+#: config/coins.php:7
+msgid "MediBloc"
+msgstr ""
+
+#: config/coins.php:7
+msgid "Bread token"
+msgstr ""
+
+#: config/coins.php:8
+msgid "active"
+msgstr ""
+
+#: config/coins.php:8
+msgid "inactive"
+msgstr ""
+
+#: includes/class-admin.php:46
+msgid "Coins alerts"
+msgstr ""
+
+#: includes/class-admin.php:47
+msgid "Manage alerts"
+msgstr ""
+
+#: includes/class-admin.php:48
+msgid "Settings"
+msgstr ""
+
+#: includes/class-admin.php:56
+msgid "Main settings"
+msgstr ""
+
+#: includes/class-admin.php:58
+msgid "Currency"
+msgstr ""
+
+#: includes/class-admin.php:59
+msgid "Alert confirmation template"
+msgstr ""
+
+#: includes/class-admin.php:60
+msgid "Alert notification template"
+msgstr ""
+
+#: includes/class-admin.php:61
+msgid "My Alerts page slug"
+msgstr ""
+
+#: includes/class-admin.php:62
+msgid "From email"
+msgstr ""
+
+#: includes/class-admin.php:63
+msgid "Cron command"
+msgstr ""
+
+#: includes/class-coin-alert.php:101
+msgid "Some required information is missing or incomplete. Please, try again."
+msgstr ""
+
+#: includes/class-coin-alert.php:102
+msgid "Sorry, something went wrong. Please, try again."
+msgstr ""
+
+#: includes/class-coin-alert.php:103
+msgid ""
+"Well done! You have successfully added an alert. Please, check your email "
+"and confirm it."
+msgstr ""
+
+#: includes/class-coin-alert.php:104
+#: public/partials/shortcode/cryptocurrency-alert-form.php:35
+msgid "loading..."
+msgstr ""
+
+#: includes/class-coin-alert.php:219
+msgid "Alert Confirmation"
+msgstr ""
+
+#: includes/class-cron.php:236
+msgid "Alert Notification"
+msgstr ""
+
+#: includes/class-helper.php:57
+#, php-format
+msgid ""
+"<p>PHP %s+ is required to use <b>%s</b> plugin. You have %s installed.</p>"
+msgstr ""
+
+#: includes/class-helper.php:57
+msgid "Plugin Activation Error"
+msgstr ""
+
+#: includes/class-helper.php:96
+msgid "Error while creating a table. Please, try again."
+msgstr ""
+
+#: includes/class-helper.php:96
+msgid "Table Creation Error"
+msgstr ""
+
+#: includes/class-helper.php:130
+msgid "Error while creating a page. Please, try again."
+msgstr ""
+
+#: includes/class-helper.php:130
+msgid "Page Creation Error"
+msgstr ""
+
+#: includes/class-helper.php:560
+msgid "falls below"
+msgstr ""
+
+#: includes/class-helper.php:562
+msgid "rises above"
+msgstr ""
+
+#: includes/class-helper.php:564
+msgid "increases by at least"
+msgstr ""
+
+#: includes/class-helper.php:566
+msgid "decreases by at least"
+msgstr ""
+
+#: includes/class-helper.php:568
+msgid "volume in coins exceeds"
+msgstr ""
+
+#: includes/class-helper.php:570
+msgid "volume in currency exceeds"
+msgstr ""
+
+#: includes/class-helper.php:572
+msgid "day's low falls below"
+msgstr ""
+
+#: includes/class-helper.php:574
+msgid "day's high exceeds"
+msgstr ""
+
+#: includes/class-helper.php:576
+msgid "market cap exceeds"
+msgstr ""
+
+#: includes/class-helper.php:578
+msgid "supply exceeds"
+msgstr ""
+
+#: includes/class-helper.php:598 includes/class-helper.php:709
+msgid "coins"
+msgstr ""
+
+#: includes/class-helper.php:729
+msgid "year"
+msgstr ""
+
+#: includes/class-helper.php:730
+msgid "month"
+msgstr ""
+
+#: includes/class-helper.php:731
+msgid "week"
+msgstr ""
+
+#: includes/class-helper.php:732
+msgid "day"
+msgstr ""
+
+#: includes/class-helper.php:733
+msgid "hour"
+msgstr ""
+
+#: includes/class-helper.php:734
+msgid "minute"
+msgstr ""
+
+#: includes/class-helper.php:735
+msgid "second"
+msgstr ""
+
+#: includes/class-helper.php:750
+msgid " ago"
+msgstr ""
+
+#: includes/class-helper.php:750
+msgid "just now"
+msgstr ""
+
+#: public/partials/admin/manage-alerts.php:12
+msgid "Export users"
+msgstr ""
+
+#: public/partials/admin/manage-alerts.php:18
+#: public/partials/my-alerts/my-alerts.php:18
+msgid "Condition"
+msgstr ""
+
+#: public/partials/admin/manage-alerts.php:19
+msgid "Email"
+msgstr ""
+
+#: public/partials/admin/manage-alerts.php:20
+#: public/partials/my-alerts/my-alerts.php:19
+msgid "Created"
+msgstr ""
+
+#: public/partials/admin/manage-alerts.php:21
+#: public/partials/my-alerts/my-alerts.php:20
+msgid "Last checked"
+msgstr ""
+
+#: public/partials/admin/manage-alerts.php:22
+#: public/partials/my-alerts/my-alerts.php:21
+msgid "Triggered"
+msgstr ""
+
+#: public/partials/admin/manage-alerts.php:23
+#: public/partials/my-alerts/my-alerts.php:22
+msgid "Trigger value"
+msgstr ""
+
+#: public/partials/admin/manage-alerts.php:24
+#: public/partials/my-alerts/my-alerts.php:23
+msgid "Status"
+msgstr ""
+
+#: public/partials/admin/manage-alerts.php:25
+#: public/partials/my-alerts/my-alerts.php:24
+msgid "Action"
+msgstr ""
+
+#: public/partials/admin/manage-alerts.php:79
+#: public/partials/my-alerts/my-alerts.php:76
+msgid "Deactivate"
+msgstr ""
+
+#: public/partials/email/alert-confirmation.php:619
+msgid "Confirm your alert"
+msgstr ""
+
+#: public/partials/email/alert-confirmation.php:621
+msgid ""
+"You have just created a new alert at <a href=\"%site_url%\" target=\"_blank"
+"\">%site_url%</a>. We will notify you if <strong>%coin_name% %criteria% "
+"%amount_text%.</strong>"
+msgstr ""
+
+#: public/partials/email/alert-confirmation.php:646
+msgid "Confirm alert"
+msgstr ""
+
+#: public/partials/email/alert-confirmation.php:671
+#: public/partials/email/alert-notification.php:671
+msgid "Manage my alerts"
+msgstr ""
+
+#: public/partials/email/alert-notification.php:619
+msgid "Your alert triggered"
+msgstr ""
+
+#: public/partials/email/alert-notification.php:621
+msgid ""
+"Your alert (<strong>%coin_name% %criteria% %amount_text%</strong>) has just "
+"been triggered. Current value: <strong>%current_amount_text%</strong>, "
+"checked at <strong>%current_date%.</strong>"
+msgstr ""
+
+#: public/partials/email/alert-notification.php:646
+msgid "Create new alert"
+msgstr ""
+
+#: public/partials/my-alerts/my-alerts.php:11
+msgid "Your alert was successfully confirmed."
+msgstr ""
+
+#: public/partials/my-alerts/my-alerts.php:78
+msgid "Remove"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:9
+msgid "Notify me when"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:16
+msgid "Rises above"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:17
+msgid "Falls below"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:18
+msgid "Increases by at least"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:19
+msgid "Decreases by at least"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:20
+msgid "Increases by at least (%)"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:21
+msgid "Decreases by at least (%)"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:22
+msgid "Volume in coins exceeds"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:23
+msgid "Volume in currency exceeds"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:24
+msgid "Day’s low falls below"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:25
+msgid "Day’s high exceeds"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:26
+msgid "Market cap exceeds"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:27
+msgid "Supply exceeds"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:32
+msgid "Input value"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:35
+msgid "Current value"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:45
+msgid "Add alert"
+msgstr ""
+
+#: public/partials/shortcode/cryptocurrency-alert-form.php:54
+msgid "My alerts"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Coins Alerts"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Plugin allows website visitors to create custom cryptocurrency prices alerts "
+"and be notified by email when specified conditions are met."
+msgstr ""

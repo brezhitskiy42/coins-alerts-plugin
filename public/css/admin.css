@@ -1,0 +1,30 @@
+.wrap__ca {
+  position: relative;
+  margin-top: 20px;
+}
+
+.manage-alerts__ca {
+  margin-top: 20px;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.manage-alerts__ca table {
+  text-align: center;
+}
+
+.manage-alerts__ca .condition__ca::first-letter {
+  text-transform: uppercase;
+}
+
+.export-users__ca {
+  position: absolute;
+  top: 25px;
+  right: 0;
+}
+
+@media (max-width: 768px) {
+  .manage-alerts__ca table {
+    text-align: left;
+  }
+}
